@@ -52,7 +52,10 @@ body.demos .service-widget h3 {
     padding: 20px 0;
     background-color: #ffffff;
 }
-
+.post-media img
+{
+    height: 400px ;
+}
 body.demos .service-widget {
     margin: 0 0 30px;
     padding: 30px;
@@ -306,7 +309,10 @@ a img.aligncenter {
 /*------------------------------------------------------------------
     HEADER
 -------------------------------------------------------------------*/
-
+.navbar-brand img {
+width: 95px;
+height: 86px;
+}
 .top-add{
 	background: #ed2d46;
 	border: none;
@@ -2618,7 +2624,10 @@ body.barber_version .dev-list .widget:hover .hover-br .social-up-hover .footer-s
 .line-pricing a:hover{
 	color: #010101 !important;
 }
-
+ .hover-br img{
+     width: 318px;
+     height: 296px;
+ }
 
 
 
